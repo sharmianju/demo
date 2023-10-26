@@ -1,0 +1,30 @@
+h1{
+	font-family: sans-serif;
+	font-style: bold;
+	font-size: 50pt;
+	color: blue;
+}
+#title{
+	display: inline;
+}
+.logo{
+	float: left;
+	object-fit: cover;
+    width: 55px;
+    padding: 10px;
+}
+.float_form{
+	float: left;
+}
+.center_form{
+	float: center;
+}
+body{
+	/*background: url(C:/xampp/htdocs/shutterstock_1.jpg);*/
+	/*background-repeat: no-repeat;*/
+	/*background-size: 80px 60px;*/
+	background: white;
+	color: #030337;
+	font-family: sans-serif;
+	margin: 0px;
+}
